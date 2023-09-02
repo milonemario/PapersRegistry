@@ -1,0 +1,6 @@
+name = "PapersRegistry"
+uuid = "a2bf4cdf-b68e-408d-aa7b-1a4eaf512f7d"
+repo = "git@github.com:milonemario/PapersRegistry.git"
+description = "Papers Registry"
+
+[packages]
