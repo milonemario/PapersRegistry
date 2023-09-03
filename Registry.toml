@@ -4,4 +4,3 @@ repo = "git@github.com:milonemario/PapersRegistry.git"
 description = "Papers Registry"
 
 [packages]
-66ca4ba2-e783-4bf3-9259-cde0bbbce19d = { name = "ResidualIncome", path = "R/ResidualIncome" }
